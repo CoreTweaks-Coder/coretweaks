@@ -6,3 +6,11 @@
 4. **NO WARRANTY:** There is no warranty, expressed or implied, that this app will improve performance or function as intended.
 
 **If you do not agree to these terms, do not download or run this application.**
+## 🛡️ Antivirus False Positives
+Because Core Tweaks uses frameworks to access low-level system settings, some AV engines (like Trapmine or Gridinsoft) may flag it.
+
+- **Flag:** `Trojan.Heur!.02016023` (This is a heuristic flag, meaning the AV doesn't recognize the app and is suspicious of its optimization behavior).
+- **Flag:** `Malicious.moderate.ml.score` (This is an AI-generated score because the app is unsigned).
+
+**Is it safe?**
+Yes. The Code IS going to be uploaded in some time {when the first release is released}
